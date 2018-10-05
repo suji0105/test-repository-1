@@ -9,4 +9,8 @@ public class Calculator {
     public static int sum(int , int b){
         return a + b;
     }
+
+    public static int minus(int , int b){
+        return a - b;
+    }
 }
